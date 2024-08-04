@@ -1,0 +1,129 @@
+{
+  "identifier" : "8D968A97",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6503334107",
+    "_developerTeamID" : "5PL8WPDS7H",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 738846178.70366895,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21493687",
+      "localizations" : [
+
+      ],
+      "name" : "Subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "12.0",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6503334938",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Buy Monthly Subscription",
+              "displayName" : "Monthly Premium Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.monthlyremoveadsgpscamera",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Remove Ads Subscription",
+          "subscriptionGroupID" : "21493687",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "150.0",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6503335004",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Buy Premium Subscription",
+              "displayName" : "Yearly Premium Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.yearlyremoveadsgpscamera",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Yearly Remove Ads Subscription",
+          "subscriptionGroupID" : "21493687",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

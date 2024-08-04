@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651439900757",
+    "project_id": "gps-map-camera-timestamp-tag",
+    "storage_bucket": "gps-map-camera-timestamp-tag.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651439900757:android:ed46d4cc36fe412ae7acdc",
+        "android_client_info": {
+          "package_name": "com.GPSMapCameraTimeStampTag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQ_IIu_eUFdkpclXNs95qgb3muzlALp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
